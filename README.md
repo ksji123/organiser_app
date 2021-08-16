@@ -9,6 +9,6 @@ This application scan the whole folder and subfolders and make a specic folder f
 - 1 install some modules using these command.
         'pip install shutil'
         'pip install tkinter'
-- 2 run the code
+- 2 run the code...
 - 3 you can make copy or move the files or you can also make shortcut files.
 
